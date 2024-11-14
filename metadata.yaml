@@ -1,0 +1,26 @@
+_repo: Froken-Liwin_74639
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stiernstedt, Marika
+    gutenberg_agent_id: '57584'
+    url: http://www.gutenberg.org/2009/agents/57584
+description: ''
+gutenberg_issued: '2024-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74639'
+language: sv
+pgterms:marc905: 20201203072233stjernsted
+pgterms:marc906: '1925'
+pgterms:marc907: se
+production_note: Jens Sadowski, Alpo Tiilikka, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aStockholm :$bAlbert Bonniers Förlag, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fröken Liwin
+url: http://www.gutenberg.org/ebooks/74639
