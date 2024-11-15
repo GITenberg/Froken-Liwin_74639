@@ -1,11 +1,16 @@
 _repo: Froken-Liwin_74639
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74639-h/images/cover.jpg
 creator:
   author:
     agent_name: Stiernstedt, Marika
     gutenberg_agent_id: '57584'
     url: http://www.gutenberg.org/2009/agents/57584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74639#Froken-Liwin
 gutenberg_issued: '2024-10-26'
 gutenberg_type: Text
 identifiers:
